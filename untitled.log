@@ -1,0 +1,63 @@
+Exporter version: 2.93.4, Blender version: 2.93.5
+========= Conversion from Blender to Babylon.js =========
+	Scene settings used :
+		Inline textures     :  false
+		Material Type       :  PBR
+		Positions Precision :  4
+		Normals Precision   :  3
+		UVs Precision       :  3
+		Vert Color Precision:  3
+		Mat Weight Precision:  2
+		Keep Z-up r-handed  :  no
+		Texture directory   :  /Users/jenjao/Desktop/
+	Python World class constructor completed
+	WARNING: No active camera has been assigned, or is not in a currently enabled collection
+	processing begun of skeleton:  SMPL-female, id:  0
+		processing begun of bone:  root, index:  0
+		processing begun of bone:  Pelvis, index:  1
+		processing begun of bone:  L_Hip, index:  2
+		processing begun of bone:  L_Knee, index:  3
+		processing begun of bone:  L_Ankle, index:  4
+		processing begun of bone:  L_Foot, index:  5
+		processing begun of bone:  R_Hip, index:  6
+		processing begun of bone:  R_Knee, index:  7
+		processing begun of bone:  R_Ankle, index:  8
+		processing begun of bone:  R_Foot, index:  9
+		processing begun of bone:  Spine1, index:  10
+		processing begun of bone:  Spine2, index:  11
+		processing begun of bone:  Spine3, index:  12
+		processing begun of bone:  Neck, index:  13
+		processing begun of bone:  Head, index:  14
+		processing begun of bone:  L_Collar, index:  15
+		processing begun of bone:  L_Shoulder, index:  16
+		processing begun of bone:  L_Elbow, index:  17
+		processing begun of bone:  L_Wrist, index:  18
+		processing begun of bone:  L_Hand, index:  19
+		processing begun of bone:  R_Collar, index:  20
+		processing begun of bone:  R_Shoulder, index:  21
+		processing begun of bone:  R_Elbow, index:  22
+		processing begun of bone:  R_Wrist, index:  23
+		processing begun of bone:  R_Hand, index:  24
+	processing begun of mesh:  SMPL-mesh-female
+		processing begun of material:  Body
+			processing texture Exam_4_Male
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		WARNING: Basis key missing, shape-key processing NOT performed
+		num positions      :  8893
+		num normals        :  8893
+		num tangents       :  0
+		num uvs            :  17786
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  13776
+		Skeleton stats:  
+			Total Influencers:  35572
+			Avg # of influencers per vertex:  4
+			Highest # of influencers observed:  4, num vertices with this:  8893
+			exported as 4 influencers
+			num skeletonWeights and skeletonIndices:  35572
+========= Writing of JSON file started =========
+	writing mesh:  SMPL-mesh-female
+========= Writing of JSON file completed =========
+========= end of processing =========
+elapsed time:  0 min, 1.84 secs

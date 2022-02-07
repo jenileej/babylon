@@ -11,184 +11,25 @@ Exporter version: 2.93.4, Blender version: 2.93.5
 		Keep Z-up r-handed  :  no
 		Texture directory   :  /Users/jenjao/Desktop/PainScan/Blender/bab/babylon/model/
 	Python World class constructor completed
-	processing begun of skeleton:  SMPL-female, id:  0
-		processing begun of bone:  root, index:  0
-		processing begun of bone:  Pelvis, index:  1
-		processing begun of bone:  L_Hip, index:  2
-		processing begun of bone:  L_Knee, index:  3
-		processing begun of bone:  L_Ankle, index:  4
-		processing begun of bone:  L_Foot, index:  5
-		processing begun of bone:  R_Hip, index:  6
-		processing begun of bone:  R_Knee, index:  7
-		processing begun of bone:  R_Ankle, index:  8
-		processing begun of bone:  R_Foot, index:  9
-		processing begun of bone:  Spine1, index:  10
-		processing begun of bone:  Spine2, index:  11
-		processing begun of bone:  Spine3, index:  12
-		processing begun of bone:  Neck, index:  13
-		processing begun of bone:  Head, index:  14
-		processing begun of bone:  L_Collar, index:  15
-		processing begun of bone:  L_Shoulder, index:  16
-		processing begun of bone:  L_Elbow, index:  17
-		processing begun of bone:  L_Wrist, index:  18
-		processing begun of bone:  L_Hand, index:  19
-		processing begun of bone:  R_Collar, index:  20
-		processing begun of bone:  R_Shoulder, index:  21
-		processing begun of bone:  R_Elbow, index:  22
-		processing begun of bone:  R_Wrist, index:  23
-		processing begun of bone:  R_Hand, index:  24
-	processing begun of skeleton:  SMPL-female.001, id:  1
-		processing begun of bone:  root, index:  0
-		processing begun of bone:  Pelvis, index:  1
-		processing begun of bone:  L_Hip, index:  2
-		processing begun of bone:  L_Knee, index:  3
-		processing begun of bone:  L_Ankle, index:  4
-		processing begun of bone:  L_Foot, index:  5
-		processing begun of bone:  R_Hip, index:  6
-		processing begun of bone:  R_Knee, index:  7
-		processing begun of bone:  R_Ankle, index:  8
-		processing begun of bone:  R_Foot, index:  9
-		processing begun of bone:  Spine1, index:  10
-		processing begun of bone:  Spine2, index:  11
-		processing begun of bone:  Spine3, index:  12
-		processing begun of bone:  Neck, index:  13
-		processing begun of bone:  Head, index:  14
-		processing begun of bone:  L_Collar, index:  15
-		processing begun of bone:  L_Shoulder, index:  16
-		processing begun of bone:  L_Elbow, index:  17
-		processing begun of bone:  L_Wrist, index:  18
-		processing begun of bone:  L_Hand, index:  19
-		processing begun of bone:  R_Collar, index:  20
-		processing begun of bone:  R_Shoulder, index:  21
-		processing begun of bone:  R_Elbow, index:  22
-		processing begun of bone:  R_Wrist, index:  23
-		processing begun of bone:  R_Hand, index:  24
-	processing begun of skeleton:  SMPL-female.002, id:  2
-		processing begun of bone:  root, index:  0
-		processing begun of bone:  Pelvis, index:  1
-		processing begun of bone:  L_Hip, index:  2
-		processing begun of bone:  L_Knee, index:  3
-		processing begun of bone:  L_Ankle, index:  4
-		processing begun of bone:  L_Foot, index:  5
-		processing begun of bone:  R_Hip, index:  6
-		processing begun of bone:  R_Knee, index:  7
-		processing begun of bone:  R_Ankle, index:  8
-		processing begun of bone:  R_Foot, index:  9
-		processing begun of bone:  Spine1, index:  10
-		processing begun of bone:  Spine2, index:  11
-		processing begun of bone:  Spine3, index:  12
-		processing begun of bone:  Neck, index:  13
-		processing begun of bone:  Head, index:  14
-		processing begun of bone:  L_Collar, index:  15
-		processing begun of bone:  L_Shoulder, index:  16
-		processing begun of bone:  L_Elbow, index:  17
-		processing begun of bone:  L_Wrist, index:  18
-		processing begun of bone:  L_Hand, index:  19
-		processing begun of bone:  R_Collar, index:  20
-		processing begun of bone:  R_Shoulder, index:  21
-		processing begun of bone:  R_Elbow, index:  22
-		processing begun of bone:  R_Wrist, index:  23
-		processing begun of bone:  R_Hand, index:  24
-	processing begun of skeleton:  SMPL-female.003, id:  3
-		processing begun of bone:  root, index:  0
-		processing begun of bone:  Pelvis, index:  1
-		processing begun of bone:  L_Hip, index:  2
-		processing begun of bone:  L_Knee, index:  3
-		processing begun of bone:  L_Ankle, index:  4
-		processing begun of bone:  L_Foot, index:  5
-		processing begun of bone:  R_Hip, index:  6
-		processing begun of bone:  R_Knee, index:  7
-		processing begun of bone:  R_Ankle, index:  8
-		processing begun of bone:  R_Foot, index:  9
-		processing begun of bone:  Spine1, index:  10
-		processing begun of bone:  Spine2, index:  11
-		processing begun of bone:  Spine3, index:  12
-		processing begun of bone:  Neck, index:  13
-		processing begun of bone:  Head, index:  14
-		processing begun of bone:  L_Collar, index:  15
-		processing begun of bone:  L_Shoulder, index:  16
-		processing begun of bone:  L_Elbow, index:  17
-		processing begun of bone:  L_Wrist, index:  18
-		processing begun of bone:  L_Hand, index:  19
-		processing begun of bone:  R_Collar, index:  20
-		processing begun of bone:  R_Shoulder, index:  21
-		processing begun of bone:  R_Elbow, index:  22
-		processing begun of bone:  R_Wrist, index:  23
-		processing begun of bone:  R_Hand, index:  24
-	processing begun of skeleton:  SMPL-female.004, id:  4
-		processing begun of bone:  root, index:  0
-		processing begun of bone:  Pelvis, index:  1
-		processing begun of bone:  L_Hip, index:  2
-		processing begun of bone:  L_Knee, index:  3
-		processing begun of bone:  L_Ankle, index:  4
-		processing begun of bone:  L_Foot, index:  5
-		processing begun of bone:  R_Hip, index:  6
-		processing begun of bone:  R_Knee, index:  7
-		processing begun of bone:  R_Ankle, index:  8
-		processing begun of bone:  R_Foot, index:  9
-		processing begun of bone:  Spine1, index:  10
-		processing begun of bone:  Spine2, index:  11
-		processing begun of bone:  Spine3, index:  12
-		processing begun of bone:  Neck, index:  13
-		processing begun of bone:  Head, index:  14
-		processing begun of bone:  L_Collar, index:  15
-		processing begun of bone:  L_Shoulder, index:  16
-		processing begun of bone:  L_Elbow, index:  17
-		processing begun of bone:  L_Wrist, index:  18
-		processing begun of bone:  L_Hand, index:  19
-		processing begun of bone:  R_Collar, index:  20
-		processing begun of bone:  R_Shoulder, index:  21
-		processing begun of bone:  R_Elbow, index:  22
-		processing begun of bone:  R_Wrist, index:  23
-		processing begun of bone:  R_Hand, index:  24
-	processing begun of skeleton:  SMPL-female.005, id:  5
-		processing begun of bone:  root, index:  0
-		processing begun of bone:  Pelvis, index:  1
-		processing begun of bone:  L_Hip, index:  2
-		processing begun of bone:  L_Knee, index:  3
-		processing begun of bone:  L_Ankle, index:  4
-		processing begun of bone:  L_Foot, index:  5
-		processing begun of bone:  R_Hip, index:  6
-		processing begun of bone:  R_Knee, index:  7
-		processing begun of bone:  R_Ankle, index:  8
-		processing begun of bone:  R_Foot, index:  9
-		processing begun of bone:  Spine1, index:  10
-		processing begun of bone:  Spine2, index:  11
-		processing begun of bone:  Spine3, index:  12
-		processing begun of bone:  Neck, index:  13
-		processing begun of bone:  Head, index:  14
-		processing begun of bone:  L_Collar, index:  15
-		processing begun of bone:  L_Shoulder, index:  16
-		processing begun of bone:  L_Elbow, index:  17
-		processing begun of bone:  L_Wrist, index:  18
-		processing begun of bone:  L_Hand, index:  19
-		processing begun of bone:  R_Collar, index:  20
-		processing begun of bone:  R_Shoulder, index:  21
-		processing begun of bone:  R_Elbow, index:  22
-		processing begun of bone:  R_Wrist, index:  23
-		processing begun of bone:  R_Hand, index:  24
 	processing begun of camera (UniversalCamera):  Camera
-	processing begun of mesh:  SMPL-mesh-female
-		processing begun of material:  sample.004
+	processing begun of mesh:  SMPL-mesh-male_SMPL-shapes-male
+		processing begun of material:  sample
+		processing begun of material:  sample
 			processing texture test
 				texture type:  diffuseTexture, mapped using: "UVMap"
-		WARNING: Basis key missing, shape-key processing NOT performed
-		num positions      :  8893
-		num normals        :  8893
-		num tangents       :  0
-		num uvs            :  17786
+		registered as also a user of material:  sample
+		processing begun of multimaterial:  model.Multimaterial#0
+		Custom split normals with tangents being used
+		num positions      :  8903
+		num normals        :  8903
+		num tangents       :  35612
+		num uvs            :  17806
 		num uvs2           :  0
 		num colors         :  0
 		num triangles      :  13776
-		Skeleton stats:  
-			Total Influencers:  35572
-			Avg # of influencers per vertex:  4
-			Highest # of influencers observed:  4, num vertices with this:  8893
-			exported as 4 influencers
-			num skeletonWeights and skeletonIndices:  35572
 	processing begun of light (POINT):  Light
 ========= Writing of JSON file started =========
-	writing mesh:  SMPL-mesh-female
+	writing mesh:  SMPL-mesh-male_SMPL-shapes-male
 ========= Writing of JSON file completed =========
 ========= end of processing =========
-elapsed time:  0 min, 1.9221 secs
+elapsed time:  0 min, 0.4789 secs
